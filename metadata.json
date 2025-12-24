@@ -1,0 +1,8 @@
+{
+  "name": "ChaiInsights - Tea Stall Pro",
+  "description": "A smart daily management tool for tea stall owners to track sales, expenses, and profits with AI-powered business insights.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
